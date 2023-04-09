@@ -7,4 +7,4 @@ tong = a + b + c + d
 trungbinh = tong / 4
 
 print("Tong=", tong)
-print("Trung binh cong=:", trungbinh)
+print("Trung binh cong=", trungbinh)
